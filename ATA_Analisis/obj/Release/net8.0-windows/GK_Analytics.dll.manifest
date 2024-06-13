@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="GK_Analytics.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="GK_Analytics.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="GK_Logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -90,22 +90,22 @@
       <dsig:DigestValue>Ed9iqfJS4zqFxi4Z2XrbDB1B3G1HN2ysHO9VbMrudsE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GK_Analytics.dll" size="362496">
+  <file name="GK_Analytics.dll" size="361984">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>XFbULTprXuh4JbvIkDwS5B2RSv66oY62Be/1ZQ1rB8g=</dsig:DigestValue>
+      <dsig:DigestValue>cLwM/OwHL+a/jtjWeOW5txmbvH/owybPGDCZYKy0j7E=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GK_Analytics.exe" size="413696">
+  <file name="GK_Analytics.exe" size="413184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fJ0gjtS2cMmeZ3K5exq0EYydDNjsANKVuVFSM00vHHE=</dsig:DigestValue>
+      <dsig:DigestValue>niAbLg7BoFlFZfqouU9flN8tM4PTaAhWGNwpazA5+qs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="GK_Analytics.runtimeconfig.json" size="458">
