@@ -10,9 +10,7 @@
         "dependencies": {
           "ClosedXML": "0.102.2",
           "Microsoft.Office.Interop.Excel": "15.0.4795.1001",
-          "Newtonsoft.Json": "13.0.3",
-          "Microsoft.Vbe.Interop": "15.0.0.0",
-          "office": "15.0.0.0"
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "MRP_Analyzer.dll": {}
@@ -772,22 +770,6 @@
             "fileVersion": "1.5.2.0"
           }
         }
-      },
-      "Microsoft.Vbe.Interop/15.0.0.0": {
-        "runtime": {
-          "Microsoft.Vbe.Interop.dll": {
-            "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.4561.1000"
-          }
-        }
-      },
-      "office/15.0.0.0": {
-        "runtime": {
-          "office.dll": {
-            "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.4613.1000"
-          }
-        }
       }
     }
   },
@@ -1370,16 +1352,6 @@
       "sha512": "sha512-8tnUCmMbn6c/HGuHFyq1sulHym8YReTKDNXFFQk0U8nldNx6RGrwRvLh0+aQjEc7YoC3Q1ztH1npLt7dClKqjw==",
       "path": "xlparser/1.5.2",
       "hashPath": "xlparser.1.5.2.nupkg.sha512"
-    },
-    "Microsoft.Vbe.Interop/15.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "office/15.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

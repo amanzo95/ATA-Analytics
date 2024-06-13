@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ATA_Analisis"
         mc:Ignorable="d"
-        Title="ATA Analisis" Height="450" Width="800">
-    <Grid>
+        Title="GK Analytics" Height="450" Width="800">
+    <Grid Background="#FF02271E">
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>
             <RowDefinition/>
@@ -15,13 +15,15 @@
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="MRP">
                 <MenuItem x:Name="BOMComparison" 
-                          Header="Comparar demanda de BOMs"
+                          Header="Comparar MRP"
                           Click="BOMComparison_Click"/>
             </MenuItem>
         </Menu>
 
         <DockPanel x:Name="WindowContainer" Grid.Row="1" Margin="1">
-
+            <DockPanel.Background>
+                <ImageBrush ImageSource="/GK_Logo.png" Stretch="Uniform"/>
+            </DockPanel.Background>
         </DockPanel>
     </Grid>
 </Window>

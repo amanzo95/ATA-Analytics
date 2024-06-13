@@ -16,6 +16,7 @@ namespace ATA_Analisis
 	/// </summary>
 	public partial class MainWindow : Window
 	{
+
 		public MainWindow()
 		{
 			InitializeComponent();
@@ -23,7 +24,13 @@ namespace ATA_Analisis
 
 		private void BOMComparison_Click(object sender, RoutedEventArgs e)
 		{
-			WindowContainer.Children.Add(new MRP_Analyzer.Views.DemandComparisionView());
+			ClearChildren();
+			WindowContainer.Children.Add(new Views.DemandComparisionView());
+		}
+
+		public void ClearChildren()
+		{
+			WindowContainer.Children.Clear();
 		}
 	}
 }

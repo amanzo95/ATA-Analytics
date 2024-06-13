@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ATA-Analytics\\ATA_Analisis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12B2902-5D86-4A9A-B509-468D195B0147}|GK_Analytics.csproj|c:\\projects\\ata-analytics\\ata_analisis\\views\\demandcomparisionview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A12B2902-5D86-4A9A-B509-468D195B0147}|GK_Analytics.csproj|solutionrelative:views\\demandcomparisionview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemandComparisionView.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\ATA-Analytics\\ATA_Analisis\\Views\\DemandComparisionView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DemandComparisionView.xaml.cs",
+              "ToolTip": "C:\\Projects\\ATA-Analytics\\ATA_Analisis\\Views\\DemandComparisionView.xaml.cs",
+              "RelativeToolTip": "Views\\DemandComparisionView.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwE8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:18:03.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

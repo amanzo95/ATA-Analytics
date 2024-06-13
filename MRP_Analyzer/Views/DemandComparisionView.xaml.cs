@@ -5,6 +5,7 @@ using MRP_Analyzer.Model;
 using Newtonsoft.Json;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace MRP_Analyzer.Views
 {
@@ -165,6 +166,10 @@ namespace MRP_Analyzer.Views
 					}
 				}
 			});
+		}
+
+		private void btClose_MouseUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
+		{
 		}
 
 	}

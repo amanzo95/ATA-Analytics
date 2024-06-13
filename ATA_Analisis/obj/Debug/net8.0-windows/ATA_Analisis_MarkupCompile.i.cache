@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Projects\ATA-Analytics\obj\Debug\net8.0-windows\
+C:\Projects\ATA-Analytics\ATA_Analisis\obj\Debug\net8.0-windows\
 ATA_Analisis
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Projects\ATA-Analytics\App.xaml
-11407045341
+C:\Projects\ATA-Analytics\ATA_Analisis\App.xaml
+21262533805
 
-6827641986
-207-1509131195
-MainWindow.xaml;
+10615149506
+205224409284
+MainWindow.xaml;Views\DemandComparisionView.xaml;
 
-True
+False
 
