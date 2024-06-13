@@ -1,0 +1,12 @@
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\GK_Analytics.exe
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\GK_Analytics.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\GK_Analytics.deps.json
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\GK_Analytics.runtimeconfig.json
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\GK_Analytics.pdb
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\ClosedXML.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\DocumentFormat.OpenXml.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\ExcelNumberFormat.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\Irony.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\SixLabors.Fonts.dll
+C:\Projects\ATA-Analytics\ATA_Analisis\bin\Release\net8.0-windows\app.publish\XLParser.dll
