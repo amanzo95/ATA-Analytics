@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GK_Analytics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943bbd37ff458f415823e968af00397e8e38de5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbeb35e48e2abe419cba1ff6ba97b56c7a8cc4de")]
 [assembly: System.Reflection.AssemblyProductAttribute("GK_Analytics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GK_Analytics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
